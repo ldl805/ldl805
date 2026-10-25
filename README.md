@@ -1,6 +1,6 @@
 # ldl805
 
-Specialized utilities for Linux environments, embedded single-board systems, low-latency streaming pipelines, and wireless network monitoring.
+Mostly contains small projects such as specialized utilities for Linux environments (especially Raspberry Pi), low-latency RTSP streaming, and wireless network tools.
 
 ---
 
@@ -31,3 +31,7 @@ Raspberry Pi-focused text-to-speech engine leveraging Gemini TTS API models for 
 OS / Environments : Debian, Linux Mint, Raspberry Pi OS, Bash/Zsh
 Languages / Tools : Python, Shell, Git, RTSP/GStreamer, Wireshark, Aircrack-ng suite
 Hardware Targets  : Raspberry Pi 4/5, headless nodes, local streaming endpoints
+
+---
+
+Slava Ukraini :saluting_face:
