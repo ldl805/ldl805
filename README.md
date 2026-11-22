@@ -1,6 +1,6 @@
 # ldl805
 
-Mostly contains small projects such as specialized utilities for Linux environments (especially Raspberry Pi), low-latency RTSP streaming, and wireless network tools.
+Virtually everything here started as a personal project or as a solution to a problem I experienced. Hopefully they may help other people. Current major focus is on stream-matrix and getting it polished.
 
 ---
 
@@ -28,9 +28,9 @@ Raspberry Pi-focused text-to-speech engine leveraging Gemini TTS API models for 
 
 ### Tech Stack & Tooling
 
-OS / Environments : Debian, Linux Mint, Raspberry Pi OS, Bash/Zsh
-Languages / Tools : Python, Shell, Git, RTSP/GStreamer, Wireshark, Aircrack-ng suite
-Hardware Targets  : Raspberry Pi 4/5, headless nodes, local streaming endpoints
+OS / Environments : Debian, Linux Mint, Raspberry Pi OS, Bash/Zsh, Windows 11
+Languages / Tools : Python, Shell, Git, RTSP/GStreamer
+Hardware Targets  : Raspberry Pi 4/5, IP cams, Personal Computing Devices 
 
 ---
 
